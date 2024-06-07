@@ -1,4 +1,4 @@
-# chai aur backend  series 
+Backend of videotube 
 
 Model for this project:
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
