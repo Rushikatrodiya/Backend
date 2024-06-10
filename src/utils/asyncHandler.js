@@ -1,4 +1,4 @@
-const asyncHandler = (requestHandler) => {
+export const asyncHandler = (requestHandler) => {
     return async (req, res, next) => {
         try {
             await Promise.resolve(requestHandler(req, res, next));
